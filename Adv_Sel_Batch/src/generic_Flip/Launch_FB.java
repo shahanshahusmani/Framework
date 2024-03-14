@@ -22,7 +22,7 @@ public class Launch_FB {
 	@AfterMethod
 	public void close()
 	{
-		System.out.println("usman");
+		System.out.println("usman1");
 		driver.close();
 	}
 }
